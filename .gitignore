@@ -1,0 +1,10 @@
+bin/ 
+*.bak 
+*-bak 
+*_autosave-* 
+*.bck 
+*.lck 
+.kicad_bdr 
+fp-info-cache 
+*-backups/ 
+*.kicad_prl 
